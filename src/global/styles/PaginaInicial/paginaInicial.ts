@@ -62,3 +62,5 @@ export const Button = styled.TouchableOpacity`
   border-left-width: 2px;
   border-left-color: #ebebeb;
 `;
+
+export const ContainerTasks = styled.FlatList``;
